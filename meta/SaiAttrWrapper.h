@@ -4,7 +4,7 @@ extern "C" {
 #include "saimetadata.h"
 }
 
-#include "swss/sal.h"
+#include "sal.h"
 
 namespace saimeta
 {
